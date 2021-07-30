@@ -1,7 +1,4 @@
-### Hi there 👋
-
-- 🌱 I’m currently learning ...
-
+### Olá!
  <div>
   <a href="https://github.com/JooaoMS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JooaoMS&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
